@@ -7,6 +7,12 @@ This repository accompanies the academic commentary titled
 
 At COP28, the global community—including Korea—pledged to triple renewable energy capacity by 2030 and nuclear capacity by 2050. This repository provides the data and analysis behind our systematic evaluation of how Korea’s national electricity plans align with these global targets, using a subset of Korea-specific scenarios from the IPCC AR6 database.
 
+## Repository Contents
+
+This GitHub repository contains:
+- The **data** used in the analysis, derived from the IPCC AR6 Scenario Database and Korea's energy-related statistics
+- The **code** for scenario filtering, capacity projection analysis, and figure generation
+
 ## Key Contributions
 
 - **Scenario Analysis**: Evaluation of 198 Korea-specific scenarios from the IPCC AR6 database (65 Paris-compliant and 133 non-compliant).
@@ -25,8 +31,3 @@ At COP28, the global community—including Korea—pledged to triple renewable e
 - Haewon McJeon (KAIST)  
 - Jiyong Eom (KAIST)
 
-## Contact
-
-For questions about this study, contact:  
-📧 hmcjeon@kaist.ac.kr  
-📧 eomjiyong@kaist.ac.kr
