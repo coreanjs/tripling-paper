@@ -1,6 +1,6 @@
 # Tripling Nuclear and Renewable Energy: A Korean Perspective
 
-This repository accompanies the academic commentary titled  
+This repository accompanies the research paper titled  
 **"Assessing the Consistency of Simultaneous Tripling of Nuclear and Renewable Energy Capacity in Korea: Evidence from the IPCC AR6 Scenarios."**
 
 ## Overview
